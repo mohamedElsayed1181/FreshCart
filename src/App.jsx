@@ -25,9 +25,7 @@ export default function App() {
     {path: 'cart', element: <Cart/> },
     {path: 'Category', element: <Category/> },
     {path: 'Brands', element: <Brands/> },
-
     {path: 'checkout', element: <Checkout/> }
-
   ] }])
 
 

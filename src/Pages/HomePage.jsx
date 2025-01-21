@@ -11,7 +11,6 @@ export default function HomePage() {
     <title> Home </title>
 </Helmet>
 
-
       <MainSlider/>
       <CategorySlider/>
       <Products/>
